@@ -7,4 +7,7 @@ package com.example.gittest;
  * description:
  */
 public class SecondAdd {
+
+    public String s="SecondAdd  分支repo1 进行修改";
+
 }

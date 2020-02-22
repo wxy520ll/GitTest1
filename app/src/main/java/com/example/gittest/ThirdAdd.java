@@ -9,5 +9,6 @@ package com.example.gittest;
 public class ThirdAdd {
 
 
-    public String s="repo";
+
+    public String s="SecondAdd  分支repo1 进行修改";
 }
