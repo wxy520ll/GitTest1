@@ -8,6 +8,7 @@ package com.example.gittest;
  */
 public class ThirdAdd {
 
-    public String s="SecondAdd  11111分支repo1 进行修改";
+
+    public String s="SecondAdd   分支repo1 进行修改";
 
 }
