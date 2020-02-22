@@ -7,4 +7,7 @@ package com.example.gittest;
  * description:
  */
 public class ThirdAdd {
+
+
+    public String s="repo";
 }
